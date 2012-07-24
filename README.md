@@ -1,4 +1,4 @@
 sbt-version-info-minimal
 ========================
 
-Test repo to confirm bug with sbt-version-info and Jenkins
+Minimal example project using https://github.com/guardian/sbt-version-info-plugin
